@@ -34,12 +34,20 @@
             "text": "LIVRAISON OFFERTE",
             "url": ""
           }
+        },
+        "message_b4aedH": {
+          "type": "message",
+          "settings": {
+            "text": "OFFRE DE RENTRÉE",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
         "message_PkbLHJ",
-        "message_hCUCAY"
+        "message_hCUCAY",
+        "message_b4aedH"
       ],
       "settings": {
         "enable_sticky": false,
