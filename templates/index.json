@@ -110,58 +110,6 @@
         "text_color": ""
       }
     },
-    "faq": {
-      "type": "faq",
-      "blocks": {
-        "166442457738b23caf-0": {
-          "type": "item",
-          "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
-          }
-        },
-        "166442457738b23caf-1": {
-          "type": "item",
-          "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
-          }
-        },
-        "166442457738b23caf-2": {
-          "type": "item",
-          "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "166442457738b23caf-0",
-        "166442457738b23caf-1",
-        "166442457738b23caf-2"
-      ],
-      "settings": {
-        "full_width": false,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
-        "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "start",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
     "image_with_text_overlay_W6iczf": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -177,6 +125,166 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "multi_column_keGr8W": {
+      "type": "multi-column",
+      "blocks": {
+        "item_kMmjzV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/67d8ebaf-088a-443b-a89d-90942b491ce6.png",
+            "column_size": "3",
+            "title": "Marc",
+            "heading_tag": "h4",
+            "content": "<p>Je fais souvent des journées de 10 à 12 heures sur les chantiers. Avec ces chaussures, je rentre enfin chez moi sans avoir les pieds en feu. Franchement, je revis, merci.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_qWQHez": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1750679904__0__mW28lNTd__IMG-20250623-WA0028__original.avif",
+            "column_size": "3",
+            "title": "Thomas",
+            "heading_tag": "h4",
+            "content": "<p>Elles sont incroyablement légères. Je sens vraiment la différence par rapport à mes anciennes chaussures de sécurité qui pesaient une tonne. On a l’impression de porter des baskets.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_m87bgL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1750679905__0__SoNvlw5Z__IMG-20250623-WA0026__original.avif",
+            "column_size": "4",
+            "title": "Giovanni",
+            "heading_tag": "h4",
+            "content": "<p>Un collègue a laissé tomber une planche en métal sur mon pied. Résultat : rien du tout. La coque acier et la semelle Kevlar font vraiment leur boulot, c’est rassurant</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JeyWXQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1756744314__1756744308243-image__original.avif",
+            "column_size": "3",
+            "title": "Alexandre",
+            "heading_tag": "h4",
+            "content": "<p>Je gagne du temps tous les matins, fini de passer 5 minutes à faire mes lacets. En 3 secondes elles sont enfilées et bien serrées, super pratique.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yVAyYk": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/1752873146__0__3VoDaZl2__ages_568599369155085333-8ffed309-3e35-40d1-a0af-ba9cffbcfc79__original-Copi.jpg",
+            "column_size": "3",
+            "title": "Sophie",
+            "heading_tag": "h4",
+            "content": "<p>Je travaille en logistique et j’ai enfin trouvé des chaussures de sécurité qui ne ressemblent pas à des blocs. Elles ont un look moderne, je peux même aller en ville avec sans complexe.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_LY6VNV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ePZUkJ0Q5_mid.jpg",
+            "column_size": "3",
+            "title": "Claire",
+            "heading_tag": "h4",
+            "content": "<p>Dans mon agence d’intérim on nous demande toujours des chaussures S3. Avec celles-ci je suis tranquille, elles sont conformes aux normes et en plus très confortables<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_kMmjzV",
+        "item_qWQHez",
+        "item_m87bgL",
+        "item_JeyWXQ",
+        "item_yVAyYk",
+        "item_LY6VNV"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_yqHf7f": {
+      "type": "featured-product",
+      "blocks": {
+        "title_QJDTyi": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "kaching_bundles_app_block_z3nq6H": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}"
+          }
+        },
+        "buy_buttons_f6xWJV": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_Xi8Uxe": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_QJDTyi",
+        "kaching_bundles_app_block_z3nq6H",
+        "buy_buttons_f6xWJV",
+        "pickup_availability_Xi8Uxe"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "securistep-s3-pro-confort-protection-toute-la-journee",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
@@ -184,6 +292,7 @@
     "logo_list_XULXVk",
     "rich_text_FNFRMK",
     "image_with_text_overlay_W6iczf",
-    "faq"
+    "multi_column_keGr8W",
+    "featured_product_yqHf7f"
   ]
 }
