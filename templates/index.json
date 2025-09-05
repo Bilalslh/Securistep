@@ -84,6 +84,32 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_FNFRMK": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UMyH9K": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Securistep ?",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_UMyH9K"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -135,11 +161,29 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "image_with_text_overlay_W6iczf": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/6_benefices_1_246c2e38-1cc2-49d3-8899-e5168e0dfc91.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
     "image_with_text_overlay_PKQFfD",
     "logo_list_XULXVk",
+    "rich_text_FNFRMK",
+    "image_with_text_overlay_W6iczf",
     "faq"
   ]
 }
