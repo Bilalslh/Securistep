@@ -25,65 +25,6 @@
         "overlay_opacity": 0
       }
     },
-    "logo_list_XULXVk": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_KQQzgP": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Design_sans_titre_6_9b14398e-4b68-46c7-8130-9b309fb8595e.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_Ka7PGY": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Design_sans_titre_7_896bb97a-7ebe-4ed7-8ac1-32b7751052ce.png",
-            "logo_width": 80,
-            "link": ""
-          }
-        },
-        "logo_eXrbVG": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Design_sans_titre_10_4fc7dff6-461c-4318-a567-fbb8a64b647c.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_D4EnAf": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Design_sans_titre_8_371686c9-7ff8-4db4-a34d-9bc939c580ea.png",
-            "logo_width": 120,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_KQQzgP",
-        "logo_Ka7PGY",
-        "logo_eXrbVG",
-        "logo_D4EnAf"
-      ],
-      "name": "Logo list",
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "title": "Vu sur:",
-        "content": "",
-        "text_alignment": "center",
-        "items_per_row": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
     "rich_text_FNFRMK": {
       "type": "rich-text",
       "blocks": {
@@ -225,13 +166,13 @@
         "button_radius": 8,
         "button_border_thickness": 1,
         "button_style": "outline",
-        "button_color": "#FFFFFF",
+        "button_color": "#ffffff",
         "button_hover_color": "#000000",
         "button_bg_color": "#000000",
-        "button_bg_hover_color": "#FFFFFF",
+        "button_bg_hover_color": "#ffffff",
         "button_border_color": "#000000",
         "button_border_hover_color": "#000000",
-        "card_bg_color": "#FFFFFF",
+        "card_bg_color": "#ffffff",
         "card_border_color": "#000000",
         "card_heading_color": "#000000",
         "card_text_color": "#000000",
@@ -239,10 +180,10 @@
         "view_color": "#000000",
         "heading_color": "#000000",
         "rating_text_color": "#000000",
-        "stars_bg_color": "#00B67A",
-        "stars_color": "#FFFFFF",
+        "stars_bg_color": "#00b67a",
+        "stars_color": "#ffffff",
         "text_color": "#000000",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "background_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
         "border_color": "#000000",
         "margin_top": 0,
@@ -508,7 +449,6 @@
   },
   "order": [
     "image_with_text_overlay_PKQFfD",
-    "logo_list_XULXVk",
     "rich_text_FNFRMK",
     "image_with_text_overlay_W6iczf",
     "trustpilot_WKkRWB",
