@@ -329,6 +329,14 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "image_xg6PBW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/OFFRE_DE_RENTREE.png",
+            "alignment": "center",
+            "max_width": 180
+          }
+        },
         "buy_buttons_f6xWJV": {
           "type": "buy_buttons",
           "settings": {
@@ -350,6 +358,7 @@
         "title_QJDTyi",
         "liquid_UdVPkA",
         "kaching_bundles_app_block_z3nq6H",
+        "image_xg6PBW",
         "buy_buttons_f6xWJV",
         "pickup_availability_Xi8Uxe"
       ],
